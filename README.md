@@ -43,7 +43,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#design">Design</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -59,6 +58,9 @@ I needed a poster design and just couldn't find a good one on the web. I designe
 
 Editing the poster is easy! Just open in Inkscape, double click the text box, and fill in the information. There is area on the right side to add in your area logos or symbols if you are a school, university, or city as well! Simply import your image and drag it to the corner. 
 
+  <a href="https://github.com/blablabliam/OpenStarPartyPoster">
+    <img src="example.png" alt="Poster">
+  </a>
 
 ### Built With
 
@@ -79,6 +81,7 @@ Liam Plybon - lplybon1@gmail.com
 Project Link: [https://github.com/blablabliam/OpenStarPartyPoster](https://github.com/blablabliam/OpenStarPartyPoster)
 
 Like it enough to spend money? Don't feel pressured. 
+
 <a href="https://www.buymeacoffee.com/Blablabliam" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Hammer" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <!-- ACKNOWLEDGEMENTS -->
